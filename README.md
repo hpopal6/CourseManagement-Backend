@@ -29,6 +29,12 @@ Built with:
 - Enter and update final grades
 - View enrolled students for assigned sections
 
+<img width="400" alt="Image" src="https://github.com/user-attachments/assets/c42c99e5-f8f8-4726-a4db-723a650d0429" />
+
+<img width="400" alt="Image" src="https://github.com/user-attachments/assets/241918dc-294e-419b-939f-de68a8c046ed" />
+
+<img width="400" alt="Image" src="https://github.com/user-attachments/assets/f73ff291-135f-441b-8745-2a3e3685c03e" />
+
 ### For Administrators:
 - Full user management (add, update, delete users)
 - Course and section management (create, update, delete)
