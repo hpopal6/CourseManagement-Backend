@@ -46,11 +46,11 @@ Built with:
 - Course and section management (create, update, delete)
 - Assign instructors to sections
 
-<img width="400" alt="Image" src="https://github.com/user-attachments/assets/15ae7ca5-23ea-422c-bf6b-dfc54ebf34c9" />
+<img width="500" alt="Image" src="https://github.com/user-attachments/assets/15ae7ca5-23ea-422c-bf6b-dfc54ebf34c9" />
 <br />
-<img width="600" alt="Image" src="https://github.com/user-attachments/assets/ec421f77-399a-4848-9896-1a33c86a55e7" />
+<img width="500" alt="Image" src="https://github.com/user-attachments/assets/ec421f77-399a-4848-9896-1a33c86a55e7" />
 <br />
-<img width="600" alt="Image" src="https://github.com/user-attachments/assets/2de9b61a-6a65-426d-a608-34175667bf7b" />
+<img width="500" alt="Image" src="https://github.com/user-attachments/assets/2de9b61a-6a65-426d-a608-34175667bf7b" />
 
 ---
 
