@@ -22,6 +22,13 @@ Built with:
 - View class schedules
 - Access assignment lists and scores
 - View academic transcripts
+<img width="400" alt="Image" src="https://github.com/user-attachments/assets/5696e5b4-92a4-42ee-8c52-3285227a6d57" />
+<br />
+<img width="400" alt="Image" src="https://github.com/user-attachments/assets/36223322-5115-469e-b5e3-666778a9f8c5" />
+<br />
+<img width="400" alt="Image" src="https://github.com/user-attachments/assets/9640602f-a0ef-4795-8947-b127c70fd921" />
+<br />
+<img width="400" alt="Image" src="https://github.com/user-attachments/assets/5be4d78e-cc2c-4e7b-912f-b0396ace7655" />
 
 ### For Instructors:
 - Manage course assignments (add/edit/delete)
@@ -30,9 +37,9 @@ Built with:
 - View enrolled students for assigned sections
 
 <img width="500" alt="Image" src="https://github.com/user-attachments/assets/c42c99e5-f8f8-4726-a4db-723a650d0429" />
-
+<br />
 <img width="400" alt="Image" src="https://github.com/user-attachments/assets/241918dc-294e-419b-939f-de68a8c046ed" />
-
+<br />
 <img width="400" alt="Image" src="https://github.com/user-attachments/assets/f73ff291-135f-441b-8745-2a3e3685c03e" />
 
 ### For Administrators:
