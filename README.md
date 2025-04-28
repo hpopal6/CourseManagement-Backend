@@ -34,6 +34,8 @@ Built with:
 - Course and section management (create, update, delete)
 - Assign instructors to sections
 
+<img width="572" alt="Image" src="https://github.com/user-attachments/assets/15ae7ca5-23ea-422c-bf6b-dfc54ebf34c9" />
+
 ---
 
 ## System Architecture
