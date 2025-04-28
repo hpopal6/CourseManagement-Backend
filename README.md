@@ -22,13 +22,13 @@ Built with:
 - View class schedules
 - Access assignment lists and scores
 - View academic transcripts
-<img width="400" alt="Image" src="https://github.com/user-attachments/assets/5696e5b4-92a4-42ee-8c52-3285227a6d57" />
+<img width="600" alt="Image" src="https://github.com/user-attachments/assets/5696e5b4-92a4-42ee-8c52-3285227a6d57" />
 <br />
-<img width="400" alt="Image" src="https://github.com/user-attachments/assets/36223322-5115-469e-b5e3-666778a9f8c5" />
+<img width="600" alt="Image" src="https://github.com/user-attachments/assets/36223322-5115-469e-b5e3-666778a9f8c5" />
 <br />
-<img width="400" alt="Image" src="https://github.com/user-attachments/assets/9640602f-a0ef-4795-8947-b127c70fd921" />
+<img width="600" alt="Image" src="https://github.com/user-attachments/assets/9640602f-a0ef-4795-8947-b127c70fd921" />
 <br />
-<img width="400" alt="Image" src="https://github.com/user-attachments/assets/5be4d78e-cc2c-4e7b-912f-b0396ace7655" />
+<img width="600" alt="Image" src="https://github.com/user-attachments/assets/5be4d78e-cc2c-4e7b-912f-b0396ace7655" />
 
 ### For Instructors:
 - Manage course assignments (add/edit/delete)
